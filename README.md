@@ -2,7 +2,7 @@
 Water metering is the practice of measuring water use. The traditional way of measuring water usage is by taking manual water volume readings from a water meter. This technique can lead to possible errors in meter reading. Therefore, there is a need for an automatic capturing system for water meter reading that will reduce inefficiencies.  This solution proposes Automatic water meter reading using digital image features called haar-like features that are used for object recognition. This approach will train a dataset of water meter images to and their corresponding masks that will be used to find the region of interest which is the water meter reading. After the regions of interest have been detected the meter reading region can be broken down into segments to identify the individual digits. The digits can be recognised using haar-like features. This can be done using integral images, haar-classifier and the AdaBoost classifier to determine the digit in the image.  
 
 This project uses the  'Water Meters Dataset, 1244 Photos & Masks' and is accessed in the notbook using the kaggle api.
-Th key is provided in 'kaggle.json' file and is required to be uploaded in the notbook.
+The key is provided in 'kaggle.json' file and is required to be uploaded in the notbook.
 
 To run the code:
 
