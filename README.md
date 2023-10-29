@@ -14,3 +14,5 @@ To run the code:
 
 4.Adjust file paths accordingly for sections; 'Segmenting individual digits', 'Calculating integral images and haar features', 'Classification and evaluation' in the notebook.
 
+#Aternative to accessing the notebook: https://colab.research.google.com/drive/1KbVha64zLvNhFh2WxtZut8kEnj9S5pYe?usp=sharing
+
